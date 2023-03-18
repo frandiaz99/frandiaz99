@@ -2,8 +2,7 @@
 
 **`Estudiante de Licenciatura en Informatica`**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frandiazmalbran/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/francisco-diaz-308b631a1/) [![Twitter](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white&style=for-the-badge)](https://twitter.com/ayushcodz&style=for-the-badge) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ayushcodz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E44050.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frandiazmalbran/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/francisco-diaz-308b631a1/) [![GMAIL](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white&style=for-the-badge)](https://twitter.com/ayushcodz&style=for-the-badge) 
 
 
 ---
