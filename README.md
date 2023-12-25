@@ -2,9 +2,17 @@
 
 **`Estudiante de Licenciatura en Sistemas`**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23ff00e8.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frandiazmalbran/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/francisco-diaz-308b631a1/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/frandiazmalbran/)(https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSHvpGQSpwpWGxZFMwNjVhlCQcCvPzKRGcpWBvzvHWBBCphmgZDQfJgXPSzTWXFdpMptBcxJ).
-
-
+<div align="center">
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<a href="https://www.linkedin.com/in/francisco-diaz-308b631a1/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/fdiazmalbran" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSHvpGQSpwpWGxZFMwNjVhlCQcCvPzKRGcpWBvzvHWBBCphmgZDQfJgXPSzTWXFdpMptBcxJ" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnodehttps style="margin-bottom: 5px;" />
+</a>
 ---
 
 ### :computer: Lenguajes y Herramientas
