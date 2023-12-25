@@ -1,6 +1,6 @@
 # :notebook: Francisco Diaz Malbran
 
-**`Estudiante de Licenciatura en Informatica`**
+**`Estudiante de Licenciatura en Sistemas`**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23ff00e8.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frandiazmalbran/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/francisco-diaz-308b631a1/) [![GMAIL](https://img.shields.io/badge/Gmail-%23FF000F.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:fdmalbran@gmail.com) 
 
