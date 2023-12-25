@@ -34,25 +34,9 @@
 <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
-  <a href="https://github.com/frandiaz99/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frandiaz99&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/frandiaz99/github-readme-stats"><img alt="FranDiaz99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frandiaz99&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frandiaz99&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frandiaz99&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frandiaz99" height="192px"/>
   <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/frandiaz99"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=frandiaz99&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-<br/>
-
----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
 </p>
