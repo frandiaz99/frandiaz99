@@ -1,18 +1,15 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frandiaz99.frandiaz99" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Francisco+Diaz+Malbran;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Argentina AR</h3>
 <br/>
-
 <div align="center">
- 🔭 I’m currently Studying **bachelor's degree in systems**
+ 🔭 I’m currently Studying **Licenciatura en Sistemas** in *UNLP*
 </div>
 
  </div>
- 
+ <br/>
 <div align="center"> 
   <a href="mailto:fdmalbran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,py,java,c,c++,mysql,js,css,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,py,java,c,cpp,mysql,js,css,html,vscode" />
 </div>
 
 <br/>
