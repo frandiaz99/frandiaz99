@@ -38,10 +38,15 @@
 
 <details>
   <summary>📘: University</summary>
-  
-  <a href="https://github.com/frandiaz99/AlgoritmosYEstructurasDeDatos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=AlgoritmosYEstructurasDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
-  <a href="https://github.com/frandiaz99/Dise-oDeBaseDeDatos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=Dise-oDeBaseDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<div align="center" style="margin: 20px;">
+  <a href="https://github.com/frandiaz99/AlgoritmosYEstructurasDeDatos" style="margin-right: 20px;"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=AlgoritmosYEstructurasDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Algoritmos y Estructuras de Datos"></a> <a href="https://github.com/frandiaz99/Dise-oDeBaseDeDatos" style="margin-right: 20px;"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=Dise-oDeBaseDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Diseño de Base de Datos"></a> <a href="https://github.com/frandiaz99/FundamentosYOrganizacionDeBaseDeDatos" style="margin-right: 20px;"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=FundamentosYOrganizacionDeBaseDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="FOD"></a>
+
+  <br>
+
+  <a href="https://github.com/frandiaz99/IngenieriaDeSoftware1" style="margin-right: 20px;"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=IngenieriaDeSoftware1&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Ingeniería de Software 1"></a> <a href="https://github.com/frandiaz99/IntroduccionASistemasOperativos" style="margin-right: 20px;"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=IntroduccionASistemasOperativos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Introducción a Sistemas Operativos"></a> <a href="https://github.com/frandiaz99/ProgramacionOrientadaAObjetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=ProgramacionOrientadaAObjetos1&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="Programación Orientada a Objetos 1"></a>
+</div>
+
   
 </details>
 
