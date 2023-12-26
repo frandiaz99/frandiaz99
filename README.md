@@ -36,6 +36,15 @@
 
 </details>
 
+<details>
+  <summary>📘: University</summary>
+  
+  <a href="https://github.com/frandiaz99/AlgoritmosYEstructurasDeDatos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=AlgoritmosYEstructurasDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+
+  <a href="https://github.com/frandiaz99/Dise-oDeBaseDeDatos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frandiaz99&repo=Dise-oDeBaseDeDatos&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  
+</details>
+
 [![](https://visitcount.itsvg.in/api?id=frandiaz99&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
