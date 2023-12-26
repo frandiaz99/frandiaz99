@@ -4,7 +4,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/frandiaz99/frandiaz99/image?description=1&descriptionEditable=Estudiante%20de%20Licenciatura%20en%20Sistemas%0A&font=Jost&owner=1&pattern=Circuit%20Board&theme=Dark" alt="frandiaz99" width="700" height="300" />
+  <img src="https://socialify.git.ci/frandiaz99/frandiaz99/image?description=1&descriptionEditable=Bachelor%27s%20student%20in%20Systems%20Engineering%20at%20the%20National%20University%20of%20La%20Plata&font=Jost&owner=1&pattern=Circuit%20Board&theme=Dark" alt="frandiaz99" width="700" height="300" />
 </p>
 
 ## About Me:
